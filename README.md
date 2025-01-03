@@ -31,14 +31,13 @@ Converted Amount
 Base Amount
 ×
 Exchange Rate
-Interactive Menu:
 
-Display options to the user:
-Convert Currency.
-View Available Currencies.
-Exit the program.
-Error Handling:
-
+### Interactive Menu:
+1. Display options to the user
+2. Convert Currency.
+3. View Available Currencies.
+4. Exit the program.
+Error Handling
 Validate user input (e.g., numeric amounts, valid currency codes).
 Handle network issues and API errors gracefully.
 Modules and Libraries:
